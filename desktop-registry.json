@@ -13,6 +13,19 @@
    },
    "status": "active",
    "ver": "1.1.3"
+  },
+  {
+   "product": "DUB1",
+   "keyId": "4JAR23",
+   "dev": "66EC-43E1-A254-5300",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "DUB1",
+    "ver": "0.3.1",
+    "kcv": "c4937812eb1a90a4",
+    "wrapped": "xOj+6DdZiP2hEBN56oGQoGbZT6gzU82YXFYZP1Ll4lFSNgVZ+1TeldHF0qwY124PED7o70ixj5zPELz0"
+   },
+   "status": "active"
   }
  ]
 }
