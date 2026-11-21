@@ -21,12 +21,12 @@
    "envelope": {
     "magic": "SONENV1",
     "product": "DUB1",
-    "ver": "0.3.3",
-    "kcv": "9528be17969e497b",
-    "wrapped": "ueUg8zcgF74El9T+p5fadwnfl9kWTmOI6g7i/Hu93LTVq5ittQ6gQlZocPMeI95N0CorTcGAqB2L4BDP"
+    "ver": "0.3.4",
+    "kcv": "e4083b89a0959bc1",
+    "wrapped": "lWhmb+Q1R6y/kfnYYr/0Wy++5twYgJqFS62RuGGphjm+I73xQ9qdw5KZ5WEB6gYW+7M+g8onDOwgvBuX"
    },
    "status": "active",
-   "ver": "0.3.3"
+   "ver": "0.3.4"
   },
   {
    "product": "EDT1",
