@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "updated": "2026-11-21",
+  "rows": [
+    {
+      "key": "F01CC2Q0FSB2W3JR",
+      "dev": "498R5ZY8Z9F6ADWP",
+      "product": "EDT1",
+      "status": "active",
+      "note": "Laptop cua anh - Edit 1 nam"
+    },
+    {
+      "key": "F01CC1EZGXRZNXE8",
+      "dev": "8MT2Z4C6PNENEZX9",
+      "product": "EDT1",
+      "status": "active",
+      "note": "Dien thoai cua anh - Edit 1 nam"
+    },
+    {
+      "key": "F01CC5DRC30J1PEQ",
+      "dev": "Q78VV6CWLQ3EWKQC",
+      "product": "EDT1",
+      "status": "active",
+      "note": "Trinh duyet test cua Muse - kiem chung khoi phuc"
+    },
+    {
+      "key": "F01CC47NDV1T1FKA",
+      "dev": "Q78VV6CWLQ3EWKQC",
+      "product": "AFF1",
+      "status": "active",
+      "note": "Trinh duyet test cua Muse - kiem chung Affiliate"
+    }
+  ]
+}
