@@ -27,6 +27,19 @@
    },
    "status": "active",
    "ver": "0.3.2"
+  },
+  {
+   "product": "EDT1",
+   "keyId": "6HVYNP",
+   "dev": "66EC-43E1-A254-5300",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "EDT1",
+    "ver": "0.1.0",
+    "kcv": "dbab767534200f9e",
+    "wrapped": "B4G6JMQJ+wmaFEb6lPpCNyqjqIvFY3vNV4wdomQPcycO5/1oLKNVpP2hfevn8415oucmR2N5PSKlZgBP"
+   },
+   "status": "active"
   }
  ]
 }
