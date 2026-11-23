@@ -35,12 +35,12 @@
    "envelope": {
     "magic": "SONENV1",
     "product": "EDT1",
-    "ver": "0.2.5",
-    "kcv": "edb9bdd15493efe5",
-    "wrapped": "BwkO+Ix6xc3fxRHLD22mDe0trQCp8oowp4crKlNHS2KrTfeOYAn9f0g04tca8Qlf6dw+1HUxGm3F28Rn"
+    "ver": "0.2.6",
+    "kcv": "60b9487c3613c85c",
+    "wrapped": "LTMD6oSbgnlQuhwBAukVhol5yYi842dVOSXWx2iWCGGGnx7CcVnxWfW/AytXURuIaz9VwnNU0UqNc8ct"
    },
    "status": "active",
-   "ver": "0.2.5"
+   "ver": "0.2.6"
   },
   {
    "product": "ZAL1",
