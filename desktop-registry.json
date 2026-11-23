@@ -97,6 +97,19 @@
    },
    "status": "active",
    "ver": "0.5.5"
+  },
+  {
+   "product": "AL1",
+   "keyId": "Q3MCNU",
+   "dev": "66EC-43E1-A254-5300",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "AL1",
+    "ver": "1.0.4",
+    "kcv": "49c72493ae295660",
+    "wrapped": "iEYLVNYxcPfS2NZQe2PTYFgjTC3P0MpbqCvhJl77vKVnAcvy8Fk2nrzVy5SjSlWb1HHtk+s7GaXOBS5M"
+   },
+   "status": "active"
   }
  ]
 }
