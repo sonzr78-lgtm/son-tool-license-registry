@@ -49,12 +49,12 @@
    "envelope": {
     "magic": "SONENV1",
     "product": "ZAL1",
-    "ver": "1.2.4",
-    "kcv": "0991a333249795d8",
-    "wrapped": "F8LR8yZUF2vmTQijtQ3HDxmuDdUHHxGk14tCFso6WWBDDA59d4Eks9LdoAySQmlY0zEAJVknyhf9EnHr"
+    "ver": "1.2.5",
+    "kcv": "d47f44f4e3df057e",
+    "wrapped": "AB72gHgoXECLyb4HjKJY1d6jmB2tN3LLZPbcDeazu5fkfXs6nbmbboCbHFJ1D581M/yiI+iJ2Tho6sSp"
    },
    "status": "active",
-   "ver": "1.2.4"
+   "ver": "1.2.5"
   },
   {
    "product": "ZAL1",
