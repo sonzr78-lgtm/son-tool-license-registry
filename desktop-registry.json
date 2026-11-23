@@ -90,11 +90,12 @@
    "envelope": {
     "magic": "SONENV1",
     "product": "DUB1",
-    "ver": "0.5.4",
-    "kcv": "37c7004c757b751f",
-    "wrapped": "57wK0NImV2/tCNixZD2IjbyJuwPsxkX4lQ4mpjXIcmmsDHtqLqNwx/gc7sEvAWNpH7yU0wQYwZD6imPL"
+    "ver": "0.5.3",
+    "kcv": "fff863bd5aa5bc2c",
+    "wrapped": "Yl+61Q8c3444ylm3kCbyAiNuAvxJBc37VEa4Aip8mXuj5iS7uOohGxU2wX5SLxVibEIhPfLtVEoM1Tkt"
    },
-   "status": "active"
+   "status": "active",
+   "ver": "0.5.3"
   }
  ]
 }
