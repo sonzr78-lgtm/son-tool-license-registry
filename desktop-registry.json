@@ -41,6 +41,19 @@
    },
    "status": "active",
    "ver": "0.2.1"
+  },
+  {
+   "product": "ZAL1",
+   "keyId": "774RBM",
+   "dev": "113859C57DC9",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "ZAL1",
+    "ver": "1.2.2",
+    "kcv": "2f6942222c45ab14",
+    "wrapped": "k+ecwlt6DkfrIFaJX4iraodq8a+oH2PTy1zvbnSORwlt89lNG2pozGS85wmOAW5jUDTQxouEFsNn0nkD"
+   },
+   "status": "active"
   }
  ]
 }
