@@ -63,11 +63,12 @@
    "envelope": {
     "magic": "SONENV1",
     "product": "ZAL1",
-    "ver": "1.2.2",
-    "kcv": "2f6942222c45ab14",
-    "wrapped": "iVyP7RR/o5Pz2UDqdatG32hjC5/GlxePQHkG6Ac10W6yX9qWylLjNI1BVogKMPb6LY0anq6Xth0ywlpA"
+    "ver": "1.2.3",
+    "kcv": "8182f1d52d5a98c7",
+    "wrapped": "TZuS9/4IoRZa3Yt30zKHq58THbnkkDb2JsdxRp2Sebzm+Mg2AqmPYQRwsOF6BQQWt1vTEHeFWumhyqW9"
    },
-   "status": "active"
+   "status": "active",
+   "ver": "1.2.3"
   }
  ]
 }
