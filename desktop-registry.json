@@ -82,6 +82,19 @@
     "wrapped": "7d74+6hyvlkZ+AJF1I3UXvHBMTDGNpPv2WiBO1nATboYnxCRsUpLUmf9M0e8uhgVQvYdTWeOktXWiyzu"
    },
    "status": "active"
+  },
+  {
+   "product": "DUB1",
+   "keyId": "ZYCBM3",
+   "dev": "C5CDFFEA8B90",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "DUB1",
+    "ver": "0.5.4",
+    "kcv": "37c7004c757b751f",
+    "wrapped": "57wK0NImV2/tCNixZD2IjbyJuwPsxkX4lQ4mpjXIcmmsDHtqLqNwx/gc7sEvAWNpH7yU0wQYwZD6imPL"
+   },
+   "status": "active"
   }
  ]
 }
