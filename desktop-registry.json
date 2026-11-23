@@ -54,6 +54,19 @@
     "wrapped": "k+ecwlt6DkfrIFaJX4iraodq8a+oH2PTy1zvbnSORwlt89lNG2pozGS85wmOAW5jUDTQxouEFsNn0nkD"
    },
    "status": "active"
+  },
+  {
+   "product": "ZAL1",
+   "keyId": "HX2GR3",
+   "dev": "C5CDFFEA8B90",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "ZAL1",
+    "ver": "1.2.2",
+    "kcv": "2f6942222c45ab14",
+    "wrapped": "iVyP7RR/o5Pz2UDqdatG32hjC5/GlxePQHkG6Ac10W6yX9qWylLjNI1BVogKMPb6LY0anq6Xth0ywlpA"
+   },
+   "status": "active"
   }
  ]
 }
