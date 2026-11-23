@@ -91,12 +91,12 @@
    "envelope": {
     "magic": "SONENV1",
     "product": "DUB1",
-    "ver": "0.5.7",
-    "kcv": "eafef8fb94ff1e9d",
-    "wrapped": "LhplvCOf/lK8OKmpk8RnDDZAI19kA6/ThzqiS+AzQBdt/uGNZFShI/DotEllaqZXp3Tp7xtvtFufJffX"
+    "ver": "0.5.8",
+    "kcv": "f4f9c0c73dbf61d7",
+    "wrapped": "TaTTVeyDpZKz++HxeUMzGlcPMJbne7oc63mO0sl3OpPCX6AepYXvR3x69ZQyD7kG812Epzy+jDI7v+Rr"
    },
    "status": "active",
-   "ver": "0.5.7"
+   "ver": "0.5.8"
   },
   {
    "product": "AL1",
