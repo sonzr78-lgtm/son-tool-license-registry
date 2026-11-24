@@ -7,12 +7,12 @@
    "envelope": {
     "magic": "SONENV1",
     "product": "AFD1",
-    "ver": "1.1.30",
-    "kcv": "3675fd029597ba55",
-    "wrapped": "fTq9FAIoTwtq7hGM0TffCMopG90cBYmD9cqmIT0cLRvRNWJW5m8S2dXPHv1KsJ28zVCgSqkcFm+g6QX1"
+    "ver": "1.1.31",
+    "kcv": "8d9c22c877b8a64c",
+    "wrapped": "1XCZZwNAfnnUBpy4xuMJZ/GA+B1BIvg2opfURunkyK+r3DLgchui0uAYpNosPalt9e0SR1nOEMiNWoOh"
    },
    "status": "active",
-   "ver": "1.1.30"
+   "ver": "1.1.31"
   },
   {
    "product": "DUB1",
