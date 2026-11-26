@@ -124,6 +124,19 @@
     "wrapped": "D9FhVAOCHvuwt3rbV4fRijJvsjxgrhqaWwAfq5n0VJ8soe6yg4FyRqbV+XfjH9GA0sxjgedKDukTaHJN"
    },
    "status": "active"
+  },
+  {
+   "product": "EDT-BDS",
+   "keyId": "N2GFYZ",
+   "dev": "66EC-43E1-A254-5300",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "EDT-BDS",
+    "ver": "1.0.0",
+    "kcv": "a8a08a38271e9953",
+    "wrapped": "BJeLfBOlTRPW/pai8E/Iyzuy5jPQzsykKjZzdo5vydn8pbEMHdhj4FbnzV9C/WKFR4cf5/Q0T0eZt73z"
+   },
+   "status": "active"
   }
  ]
 }
