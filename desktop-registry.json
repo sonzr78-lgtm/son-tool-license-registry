@@ -111,6 +111,19 @@
    },
    "status": "active",
    "ver": "1.0.6"
+  },
+  {
+   "product": "EDT-BDS",
+   "keyId": "H62VFW",
+   "dev": "6F63-1F47-C94F-48EB",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "EDT-BDS",
+    "ver": "1.0.0",
+    "kcv": "a8a08a38271e9953",
+    "wrapped": "D9FhVAOCHvuwt3rbV4fRijJvsjxgrhqaWwAfq5n0VJ8soe6yg4FyRqbV+XfjH9GA0sxjgedKDukTaHJN"
+   },
+   "status": "active"
   }
  ]
 }
