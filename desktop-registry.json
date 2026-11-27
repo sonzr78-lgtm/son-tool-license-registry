@@ -21,12 +21,12 @@
    "envelope": {
     "magic": "SONENV1",
     "product": "DUB1",
-    "ver": "0.8.1",
-    "kcv": "ece731d485ebc808",
-    "wrapped": "F0HKgZvmrZbl0ivQ58eSc5bpFqdybZA6RUPgCqMYELv0v0ZHNcfubyidHRglRH529bZwlbRtcYJl3Ur7"
+    "ver": "0.8.2",
+    "kcv": "c225c6c4e6700d50",
+    "wrapped": "24dX0gQoNgRdD4sJZfQEXygu4Nl/eO1fEXmHQWjkmXM3CfHkSd+kQDzE4n6WeVtGkz3Wa/yPJKYxdeL5"
    },
    "status": "active",
-   "ver": "0.8.1"
+   "ver": "0.8.2"
   },
   {
    "product": "EDT1",
@@ -91,12 +91,12 @@
    "envelope": {
     "magic": "SONENV1",
     "product": "DUB1",
-    "ver": "0.8.1",
-    "kcv": "ece731d485ebc808",
-    "wrapped": "hS1LPImLHNJax4578OjL/8HzzgUmPVDOELkmg3Di6C7tXGEbrVcSTDktLIzWWrpR4djYloVrEibvVCJU"
+    "ver": "0.8.2",
+    "kcv": "c225c6c4e6700d50",
+    "wrapped": "ZI+Ei2X8B4Zmw18UO4BMrLErAKTs2dVfOZaZ1VmD+6tlfAMxR83G8yXZeCGX38XW9OnjHnNQTWrdR8kE"
    },
    "status": "active",
-   "ver": "0.8.1"
+   "ver": "0.8.2"
   },
   {
    "product": "AL1",
