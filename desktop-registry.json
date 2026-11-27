@@ -1,156 +1,170 @@
 {
-  "rows": [
-    {
-      "product": "AFD1",
-      "keyId": "B68H9T",
-      "dev": "66EC-43E1-A254-5300",
-      "envelope": {
-        "magic": "SONENV1",
-        "product": "AFD1",
-        "ver": "1.2.2",
-        "kcv": "af06baf4f2b4486f",
-        "wrapped": "U+IB5JMjVm8smdfu0OIRnZe1kgn0PeLMiSd/k6Jv6nxkd8JaFO+r/IJirqB7IFwn4YipYNAb8HAzLDws"
-      },
-      "status": "active",
-      "ver": "1.2.2"
-    },
-    {
-      "product": "DUB1",
-      "keyId": "4JAR23",
-      "dev": "66EC-43E1-A254-5300",
-      "envelope": {
-        "magic": "SONENV1",
-        "product": "DUB1",
-        "ver": "0.8.0",
-        "kcv": "518458a87e7fdfdb",
-        "wrapped": "WQVXRddqBJfu3xXhPPC9kV6hyOUUKFbfN+y848xXu2fgcCvg8HOUxp1kbC0fBw3O7mAKVpVjB41NVUnh"
-      },
-      "status": "active",
-      "ver": "0.8.0"
-    },
-    {
-      "product": "EDT1",
-      "keyId": "6HVYNP",
-      "dev": "66EC-43E1-A254-5300",
-      "envelope": {
-        "magic": "SONENV1",
-        "product": "EDT1",
-        "ver": "1.1.9",
-        "kcv": "236f58b18a7a1d41",
-        "wrapped": "ZmUV7ipnwHAYI1wIl8l1dw/4k7GVWvLdnHqCHPq917rAG5BbqWxnrL8B+NdtDy1uEA9yjZIoVTsaYbTW"
-      },
-      "status": "active",
-      "ver": "1.1.9"
-    },
-    {
-      "product": "ZAL1",
-      "keyId": "774RBM",
-      "dev": "113859C57DC9",
-      "envelope": {
-        "magic": "SONENV1",
-        "product": "ZAL1",
-        "ver": "1.2.7",
-        "kcv": "f71ce151548a647f",
-        "wrapped": "tIQaNdOq3MVWfo0TBa/KqYGkemJlMqEIZjZfADhhM2Ejk2Mxagfardh+2MDkyThO879XWBEWfTUuda0o"
-      },
-      "status": "active",
-      "ver": "1.2.7"
-    },
-    {
-      "product": "ZAL1",
-      "keyId": "HX2GR3",
-      "dev": "C5CDFFEA8B90",
-      "envelope": {
-        "magic": "SONENV1",
-        "product": "ZAL1",
-        "ver": "1.2.7",
-        "kcv": "f71ce151548a647f",
-        "wrapped": "C1aWiNwWjihaUZb9WajGlIuBS60Qy3R3GudBTSV66GeMCbBokVRW8FVlMTuNhxB73nowRwQzySm1ye2b"
-      },
-      "status": "active",
-      "ver": "1.2.7"
-    },
-    {
-      "product": "AL1",
-      "keyId": "4X98F8",
-      "dev": "6F63-1F47-C94F-48EB",
-      "envelope": {
-        "magic": "SONENV1",
-        "product": "AL1",
-        "ver": "1.0.6",
-        "kcv": "ffabd3aa36b399ee",
-        "wrapped": "upB8KdbqVQU2pahcsf0Rxq/l9o062iLUQKF2LZa63gSwisKzpJAPNzexKvUsEjS5to4aVoCF/BNOd0xU"
-      },
-      "status": "active",
-      "ver": "1.0.6"
-    },
-    {
-      "product": "DUB1",
-      "keyId": "ZYCBM3",
-      "dev": "C5CDFFEA8B90",
-      "envelope": {
-        "magic": "SONENV1",
-        "product": "DUB1",
-        "ver": "0.8.0",
-        "kcv": "518458a87e7fdfdb",
-        "wrapped": "JpUg6SeG5OO/aIa8zwMqFZouc6RtMPWy8VxkNXPSgfU+SuIAKh3ud+cnpzPc0SVrmrgazlNx7ghMERSv"
-      },
-      "status": "active",
-      "ver": "0.8.0"
-    },
-    {
-      "product": "AL1",
-      "keyId": "Q3MCNU",
-      "dev": "66EC-43E1-A254-5300",
-      "envelope": {
-        "magic": "SONENV1",
-        "product": "AL1",
-        "ver": "1.0.6",
-        "kcv": "ffabd3aa36b399ee",
-        "wrapped": "aUQJQLPtUulpYJytZJK3XXLlwq5UvxEnPi2pmyKoollShkYZBgMJQkZ1Ulickxz2nPB8WcKiFCiTpK96"
-      },
-      "status": "active",
-      "ver": "1.0.6"
-    },
-    {
-      "product": "EDT-BDS",
-      "keyId": "H62VFW",
-      "dev": "6F63-1F47-C94F-48EB",
-      "envelope": {
-        "magic": "SONENV1",
-        "product": "EDT-BDS",
-        "ver": "1.0.0",
-        "kcv": "a8a08a38271e9953",
-        "wrapped": "D9FhVAOCHvuwt3rbV4fRijJvsjxgrhqaWwAfq5n0VJ8soe6yg4FyRqbV+XfjH9GA0sxjgedKDukTaHJN"
-      },
-      "status": "active"
-    },
-    {
-      "product": "EDT-BDS",
-      "keyId": "N2GFYZ",
-      "dev": "66EC-43E1-A254-5300",
-      "envelope": {
-        "magic": "SONENV1",
-        "product": "EDT-BDS",
-        "ver": "1.0.0",
-        "kcv": "a8a08a38271e9953",
-        "wrapped": "BJeLfBOlTRPW/pai8E/Iyzuy5jPQzsykKjZzdo5vydn8pbEMHdhj4FbnzV9C/WKFR4cf5/Q0T0eZt73z"
-      },
-      "status": "active"
-    },
-    {
-      "product": "AFD1",
-      "keyId": "B68H9T",
-      "dev": "66EC-43E1-A254-5300",
-      "envelope": {
-        "magic": "SONENV1",
-        "product": "AFD1",
-        "ver": "1.2.3",
-        "kcv": "8704a44708816de2",
-        "wrapped": "ZKQV7Esx50iij/sptzWsfhYq2AUGnqxv/UxbgenwKCIh5cKO/XWiLUjHxRCfjXL1ibaPnXrDi12/aD7U"
-      },
-      "status": "active",
-      "ver": "1.2.3"
-    }
-  ]
+ "rows": [
+  {
+   "product": "AFD1",
+   "keyId": "B68H9T",
+   "dev": "66EC-43E1-A254-5300",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "AFD1",
+    "ver": "1.2.2",
+    "kcv": "af06baf4f2b4486f",
+    "wrapped": "U+IB5JMjVm8smdfu0OIRnZe1kgn0PeLMiSd/k6Jv6nxkd8JaFO+r/IJirqB7IFwn4YipYNAb8HAzLDws"
+   },
+   "status": "active",
+   "ver": "1.2.2"
+  },
+  {
+   "product": "DUB1",
+   "keyId": "4JAR23",
+   "dev": "66EC-43E1-A254-5300",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "DUB1",
+    "ver": "0.8.0",
+    "kcv": "518458a87e7fdfdb",
+    "wrapped": "WQVXRddqBJfu3xXhPPC9kV6hyOUUKFbfN+y848xXu2fgcCvg8HOUxp1kbC0fBw3O7mAKVpVjB41NVUnh"
+   },
+   "status": "active",
+   "ver": "0.8.0"
+  },
+  {
+   "product": "EDT1",
+   "keyId": "6HVYNP",
+   "dev": "66EC-43E1-A254-5300",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "EDT1",
+    "ver": "1.1.9",
+    "kcv": "236f58b18a7a1d41",
+    "wrapped": "ZmUV7ipnwHAYI1wIl8l1dw/4k7GVWvLdnHqCHPq917rAG5BbqWxnrL8B+NdtDy1uEA9yjZIoVTsaYbTW"
+   },
+   "status": "active",
+   "ver": "1.1.9"
+  },
+  {
+   "product": "ZAL1",
+   "keyId": "774RBM",
+   "dev": "113859C57DC9",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "ZAL1",
+    "ver": "1.2.7",
+    "kcv": "f71ce151548a647f",
+    "wrapped": "tIQaNdOq3MVWfo0TBa/KqYGkemJlMqEIZjZfADhhM2Ejk2Mxagfardh+2MDkyThO879XWBEWfTUuda0o"
+   },
+   "status": "active",
+   "ver": "1.2.7"
+  },
+  {
+   "product": "ZAL1",
+   "keyId": "HX2GR3",
+   "dev": "C5CDFFEA8B90",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "ZAL1",
+    "ver": "1.2.7",
+    "kcv": "f71ce151548a647f",
+    "wrapped": "C1aWiNwWjihaUZb9WajGlIuBS60Qy3R3GudBTSV66GeMCbBokVRW8FVlMTuNhxB73nowRwQzySm1ye2b"
+   },
+   "status": "active",
+   "ver": "1.2.7"
+  },
+  {
+   "product": "AL1",
+   "keyId": "4X98F8",
+   "dev": "6F63-1F47-C94F-48EB",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "AL1",
+    "ver": "1.0.6",
+    "kcv": "ffabd3aa36b399ee",
+    "wrapped": "upB8KdbqVQU2pahcsf0Rxq/l9o062iLUQKF2LZa63gSwisKzpJAPNzexKvUsEjS5to4aVoCF/BNOd0xU"
+   },
+   "status": "active",
+   "ver": "1.0.6"
+  },
+  {
+   "product": "DUB1",
+   "keyId": "ZYCBM3",
+   "dev": "C5CDFFEA8B90",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "DUB1",
+    "ver": "0.8.0",
+    "kcv": "518458a87e7fdfdb",
+    "wrapped": "JpUg6SeG5OO/aIa8zwMqFZouc6RtMPWy8VxkNXPSgfU+SuIAKh3ud+cnpzPc0SVrmrgazlNx7ghMERSv"
+   },
+   "status": "active",
+   "ver": "0.8.0"
+  },
+  {
+   "product": "AL1",
+   "keyId": "Q3MCNU",
+   "dev": "66EC-43E1-A254-5300",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "AL1",
+    "ver": "1.0.6",
+    "kcv": "ffabd3aa36b399ee",
+    "wrapped": "aUQJQLPtUulpYJytZJK3XXLlwq5UvxEnPi2pmyKoollShkYZBgMJQkZ1Ulickxz2nPB8WcKiFCiTpK96"
+   },
+   "status": "active",
+   "ver": "1.0.6"
+  },
+  {
+   "product": "EDT-BDS",
+   "keyId": "H62VFW",
+   "dev": "6F63-1F47-C94F-48EB",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "EDT-BDS",
+    "ver": "1.0.0",
+    "kcv": "a8a08a38271e9953",
+    "wrapped": "D9FhVAOCHvuwt3rbV4fRijJvsjxgrhqaWwAfq5n0VJ8soe6yg4FyRqbV+XfjH9GA0sxjgedKDukTaHJN"
+   },
+   "status": "active"
+  },
+  {
+   "product": "EDT-BDS",
+   "keyId": "N2GFYZ",
+   "dev": "66EC-43E1-A254-5300",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "EDT-BDS",
+    "ver": "1.0.0",
+    "kcv": "a8a08a38271e9953",
+    "wrapped": "BJeLfBOlTRPW/pai8E/Iyzuy5jPQzsykKjZzdo5vydn8pbEMHdhj4FbnzV9C/WKFR4cf5/Q0T0eZt73z"
+   },
+   "status": "active"
+  },
+  {
+   "product": "AFD1",
+   "keyId": "B68H9T",
+   "dev": "66EC-43E1-A254-5300",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "AFD1",
+    "ver": "1.2.3",
+    "kcv": "8704a44708816de2",
+    "wrapped": "ZKQV7Esx50iij/sptzWsfhYq2AUGnqxv/UxbgenwKCIh5cKO/XWiLUjHxRCfjXL1ibaPnXrDi12/aD7U"
+   },
+   "status": "active",
+   "ver": "1.2.3"
+  },
+  {
+   "product": "AFD1",
+   "keyId": "B68H9T",
+   "dev": "66EC-43E1-A254-5300",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "AFD1",
+    "ver": "1.2.4",
+    "kcv": "b40aa5831ae4c898",
+    "wrapped": "1DpJQDRiXN4HkyOR1DdFfMFii14UHDvIaULzOS3r9sbjHOcGIqG0kCVdePO4Pr7KQvutqsj+DVLFnpnB"
+   },
+   "status": "active",
+   "ver": "1.2.4"
+  }
+ ]
 }
