@@ -165,6 +165,20 @@
    },
    "status": "active",
    "ver": "1.2.4"
+  },
+  {
+   "product": "AFD1",
+   "keyId": "B68H9T",
+   "dev": "66EC-43E1-A254-5300",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "AFD1",
+    "ver": "1.2.5",
+    "kcv": "96da4018bf842492",
+    "wrapped": "ocz0Tf+VsTRYRCru9uvyVIbuV5CIcyw3s5ESqApaZP6y3c2+KqSZ6q6CnqSeQE2VkY+fdvejKoFdYCt+"
+   },
+   "status": "active",
+   "ver": "1.2.5"
   }
  ]
 }
