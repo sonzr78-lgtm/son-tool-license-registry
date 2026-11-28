@@ -235,6 +235,34 @@
    },
    "status": "active",
    "ver": "1.2.9"
+  },
+  {
+   "product": "ZAL1",
+   "keyId": "774RBM",
+   "dev": "113859C57DC9",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "ZAL1",
+    "ver": "1.2.9",
+    "kcv": "05eba0132fe0f7bd",
+    "wrapped": "hVn5n7jphJ+VIEMlZWSdsWVCEzJcWOGOlsiItD4lt6XvY45YolXpIVgF14Rkba4Uri3lZ9N6rPqdQuYN"
+   },
+   "status": "active",
+   "ver": "1.2.9"
+  },
+  {
+   "product": "ZAL1",
+   "keyId": "HX2GR3",
+   "dev": "C5CDFFEA8B90",
+   "envelope": {
+    "magic": "SONENV1",
+    "product": "ZAL1",
+    "ver": "1.2.9",
+    "kcv": "05eba0132fe0f7bd",
+    "wrapped": "C4b8YciDIdqmaRsXYRinim/3Gsw0lrecagLboBv31QOkWaCKSdjgs7k0LCYpJidd5a6OOruHC+AFdM5V"
+   },
+   "status": "active",
+   "ver": "1.2.9"
   }
  ]
 }
